@@ -1,5 +1,4 @@
 # Fundamentos de Machine Learning com Scikit-Learn
-**Projeto da Disciplina [Obrigatório]**
 **Aluna:** Ingrid Ornellas Coda Sant'Anna Gomes
 
 ## Visão Geral
